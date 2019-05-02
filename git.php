@@ -1,4 +1,7 @@
-<?php?>
+<?php
+$m = $_GET["hi"];
+
+?>
 <!DOCTYPE html>
 <html>
 <head>
