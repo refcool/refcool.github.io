@@ -1,6 +1,5 @@
 <?php
-$m = $_GET["hi"];
-
+echo "hi";
 ?>
 <!DOCTYPE html>
 <html>
